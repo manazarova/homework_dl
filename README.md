@@ -5,7 +5,7 @@
 
 ![dsc_0846](https://user-images.githubusercontent.com/35367116/35403729-b98dd2ca-0211-11e8-982c-6a7bdc3aafb1.png)
 
-Привет!
+**Большой привет!**
 
 Сейчас я расскажу о себе.
 
